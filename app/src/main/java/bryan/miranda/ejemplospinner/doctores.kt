@@ -58,7 +58,11 @@ class doctores : Fragment() {
                     txtTelefonoDoctor.setText("")
                 }
             }
+
+
         }
+
+
 
         return root
     }
